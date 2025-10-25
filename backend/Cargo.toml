@@ -1,5 +1,5 @@
 [package]
-name = "token-flow-viz"
+name = "token_flow_viz"
 version = "0.1.0"
 edition = "2021"
 
